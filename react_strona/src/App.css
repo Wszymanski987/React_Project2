@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  font-family: system-ui;
+  width: 200px;
+  height: 200px;
+}
+
+.App-header {
+  margin: 60px 60px;
+}
+
+.App-link {
+  color: #61dafb;
+}
